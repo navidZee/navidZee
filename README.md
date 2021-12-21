@@ -1,3 +1,5 @@
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Navid]
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidZee&show_icons=true&theme=radical)
 
 
@@ -11,6 +13,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
 <div align="center">
  <a href="https://www.linkedin.com/in/n-zare" target="_blank">
@@ -34,3 +37,9 @@
 </a>
 
 </div>  
+
+---
+
+**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
+
+---
