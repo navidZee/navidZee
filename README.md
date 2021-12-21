@@ -34,8 +34,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+ <a href="https://www.codewars.com/users/navid_zee" target="_blank">
+<img src=https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey alt=Navid Zare Codewars style="margin-bottom: 5px;" />
+</a>
+ <a href="https://www.hackerrank.com/naavidzaare" target="_blank">
+<img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=Navid Zare HackerRank style="margin-bottom: 5px;" />
+</a>
+
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
