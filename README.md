@@ -1,7 +1,16 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Navid]
 
+<div align="center">
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidZee&show_icons=true&theme=radical)
+ 
+</div>
 
+### My Stack 
+
+<div align="center">
+ 
+ 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![DotNetCore](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=DotNetCore&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -14,7 +23,6 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,15 +40,17 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
-
+### Coding Practice <img src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" height="32px">
+<div align="center">
  <a href="https://www.codewars.com/users/navid_zee" target="_blank">
 <img src=https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey alt=Navid Zare Codewars style="margin-bottom: 5px;" />
 </a>
  <a href="https://www.hackerrank.com/naavidzaare" target="_blank">
 <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=Navid Zare HackerRank style="margin-bottom: 5px;" />
 </a>
-
+</div>
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
