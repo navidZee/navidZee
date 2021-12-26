@@ -74,7 +74,7 @@
 <a href="https://t.me/Navid_zee" target="_blank">
  <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=Navid Zare telegram style="margin-bottom: 5px;" />
 </a>
-                                                
+                                                 
 <a href="https://www.instagram.com/naviid_zee" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Akash Shrivastava Instagram style="margin-bottom: 5px;" />
 </a>
